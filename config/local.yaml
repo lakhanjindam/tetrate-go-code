@@ -1,0 +1,6 @@
+env: local
+region: local
+port: 8080
+allowOrigins:
+  - http://localhost:8080
+  - https://restcountries.com

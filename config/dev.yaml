@@ -1,0 +1,6 @@
+env: dev
+region: us-east-1
+port: 3000
+allowOrigins:
+  - http://localhost:3000
+  - https://restcountries.com
